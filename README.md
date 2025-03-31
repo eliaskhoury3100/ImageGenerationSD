@@ -16,3 +16,28 @@ The application consists of:
 2. **High-Quality Image Generation**: Uses Stable Diffusion model for realistic image creation
 3. **Image Download**: Save generated images for later use in research
 4. **Responsive Design**: Works on desktop and mobile devices
+
+## Setup Instructions
+### Prerequisites
+- Node.js (v16+)
+- Python 3.8+
+- Google Colab account (for running the backend)
+
+### Frontend Setup
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/yourusername/vlm-image-generator.git
+    cd vlm-image-generator
+    ```
+2. Install dependencies:
+    ```bash
+    npm install
+    ```
+3. Update the API endpoint in `lib/image-generation.ts` to point to your deployed backend URL
+4. Start the development server:
+    ```bash
+    npm run dev
+    ```
+
+
+

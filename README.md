@@ -97,7 +97,7 @@ This tool is intended for educational and research purposes only. Users should:
 - Avoid generating harmful, offensive, or misleading content.
 - Use the generated images responsibly and in accordance with academic ethics.
 
-## Acknowledgments
+## Acknowledgements
 - [Stable Diffusion](https://github.com/CompVis/stable-diffusion) for the image generation model
 - [AttackVLM](https://github.com/yunqing-me/AttackVLM) for research on adversarial robustness of VLMs
 - Zhao, Y., Pang, T., Du, C., Yang, X., Li, C., Cheung, N.-M., & Lin, M. (2023). *On evaluating adversarial robustness of large vision-language models.* Advances in Neural Information Processing Systems (NeurIPS 2023).

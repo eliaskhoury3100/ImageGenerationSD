@@ -38,6 +38,6 @@ The application consists of:
     ```bash
     npm run dev
     ```
-
+5. Open [http://localhost:3000](http://localhost:3000) in your browser
 
 

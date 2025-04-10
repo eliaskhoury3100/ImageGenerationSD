@@ -26,7 +26,7 @@ The application consists of:
 ### Frontend Setup
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/vlm-image-generator.git
+    git clone https://github.com/eliaskhoury3100/ImageGenerationSD
     cd vlm-image-generator
     ```
 2. Install dependencies:

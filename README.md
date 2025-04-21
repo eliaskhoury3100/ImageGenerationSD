@@ -27,12 +27,13 @@ The application consists of:
 1. Clone the repository:
     ```bash
     git clone https://github.com/eliaskhoury3100/ImageGenerationSD
-    cd vlm-image-generator
+    cd \...\ImageGenerationSD
     ```
 2. Install dependencies:
     ```bash
     npm install
     ```
+    Move the package.json file into the main folder if needed.
 3. Update the API endpoint in `lib/image-generation.ts` to point to your deployed backend URL.
 4. Start the development server:
     ```bash

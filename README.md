@@ -27,7 +27,7 @@ The application consists of:
 1. Clone the repository:
     ```bash
     git clone https://github.com/eliaskhoury3100/ImageGenerationSD
-    cd \...\ImageGenerationSD
+    cd /.../ImageGenerationSD
     ```
 2. Install dependencies:
     ```bash
